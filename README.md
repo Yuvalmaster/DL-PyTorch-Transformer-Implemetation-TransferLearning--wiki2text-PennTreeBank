@@ -16,6 +16,6 @@ The project comprises the following key components:
 Transfer Learning: The trained Transformer model is applied to the PennTreeBank dataset to demonstrate transfer learning capabilities. By fine-tuning the model on a different dataset, the project showcases the ability of the Transformer model to generalize across diverse language tasks.
 
 ## Accessing the Resources
-To access the project resources, including the code files and datasets, please contact us via email, and we will provide you with a link to the Data folder. The requirements.txt file lists the necessary dependencies and their versions for running the project. We recommend setting up a conda virtual environment and installing the dependencies using the command ```conda install --file requirements.txt``` to ensure a smooth execution of the project.
+To access the project resources, including the code files and datasets, please contact us via email, and I will provide you with a link to the Data folder. The requirements.txt file lists the necessary dependencies and their versions for running the project. it is recommended setting up a conda virtual environment and installing the dependencies using the command ```conda install --file requirements.txt``` to ensure a smooth execution of the project.
 
 If you have any further questions or require assistance, please feel free to ask.
